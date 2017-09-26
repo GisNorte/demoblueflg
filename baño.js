@@ -1,4 +1,4 @@
-var baño = {
+var bano = {
 "type": "FeatureCollection",
 "name": "baño",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
